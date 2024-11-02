@@ -10,4 +10,4 @@ function extractAndReverse(arr) {
   
   const numbers = [15, 30, 45, 60, 75, 90];
   const reversedSubarray = extractAndReverse(numbers);
-  console.log(reversedSubarray); // Output: [60, 45]
+  console.log(reversedSubarray); // Output: [75, 60, 45]
