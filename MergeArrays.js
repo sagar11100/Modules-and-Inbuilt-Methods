@@ -11,7 +11,6 @@ function modifyAndMerge(arr1, arr2) {
     return mergedArray;
   }
   
-  // Example usage:
   const arr1 = ["car", "bike", "train"];
   const arr2 = ["plane", "ship"];
   
